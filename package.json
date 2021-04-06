@@ -1,0 +1,19 @@
+{
+  "name": "amazing-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "netlify-cli": "^3.15.1",
+    "postcss": "^8.2.9",
+    "tailwindcss": "^2.0.4"
+  }
+}
